@@ -23,6 +23,16 @@ ApiDog - apidog.com
    Anotação do lombok para todos os getters e setters de uma classe é:
    `@Data`
 
+# Aula -03 - Hash de senhas para o banco
+
+1- Instalar o bcrypt
+
+2- Fazer o hash de senhas para o banco
+
+3- criar a interface tasks
+
+4- autenticar os usuários através do filter
+
 
 
 
