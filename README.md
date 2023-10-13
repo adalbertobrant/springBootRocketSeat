@@ -12,5 +12,11 @@ ApiDog - apidog.com
 1 - start.spring.io 
   selecionar java 17, maven, e versão do spring 3.0.11
 
+2 - fazer o UserModel e UserController da aplicação 
+
+# Aula -02 Integração com Banco de Dados
+
+
+
 
 
